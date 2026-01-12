@@ -1,0 +1,1273 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-01-11T12:45:45Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/285840472",
+        "addr:city": "Kota Sukabumi",
+        "addr:full": "Jalan Rumah Sakit Nomor 1, Kota Sukabumi - Jawa Barat 43113",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "name": "RSUD R. Syamsudin, SH.",
+        "operator:type": "government",
+        "website": "https://www.rsudsyamsudin.org/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9345122,
+          -6.9161053
+        ]
+      },
+      "id": "way/285840472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/285843555",
+        "addr:full": "Jalan Jendral A. Yani Nomor 18 A, Nyomplong, Kec. Warudoyong, Kota Sukabumi, Jawa Barat 43131",
+        "amenity": "hospital",
+        "building": "hospital",
+        "emergency": "yes",
+        "name": "RS Kartika Kasih",
+        "operator:type": "private",
+        "phone": "+62266233315",
+        "website": "https://www.kasih-group.com/rskartikakasih",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9237678,
+          -6.9220297
+        ]
+      },
+      "id": "way/285843555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/292246845",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "name": "Rumah Sakit Rido Galih",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9344642,
+          -6.9217576
+        ]
+      },
+      "id": "way/292246845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/327939929",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "name": "Puskesmas Selabatu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9313278,
+          -6.9154686
+        ]
+      },
+      "id": "way/327939929"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/782884783",
+        "amenity": "hospital",
+        "building": "hospital",
+        "healthcare": "hospital",
+        "name": "Rumah Sakit Islam Assyifa",
+        "name:en": "RS Islam Assyifa",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.916882,
+          -6.9189714
+        ]
+      },
+      "id": "way/782884783"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/782895537",
+        "addr:city": "Sukabumi",
+        "addr:full": "Jalan Raya Cisaat No.595, Cibatu, Kec. Cisaat, Sukabumi Regency, Jawa Barat 43152",
+        "amenity": "hospital",
+        "building": "hospital",
+        "name": "RS Betha Medika",
+        "operator:type": "private",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8826411,
+          -6.9028319
+        ]
+      },
+      "id": "way/782895537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/784682063",
+        "addr:full": "Jalan Raya Sukaraja, No.Rt.003/003, Sukaraja, Kec. Sukaraja, Sukabumi, Jawa Barat",
+        "amenity": "hospital",
+        "name": "RS. Hermina Sukabumi",
+        "operator:type": "private",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9614386,
+          -6.9176808
+        ]
+      },
+      "id": "way/784682063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/847796575",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "Klinik DKT Pangrango",
+        "opening_hours": "Mo-Fr 08:00-11:00, 12:00-14:00",
+        "phone": "+62266225234",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9297901,
+          -6.9218566
+        ]
+      },
+      "id": "way/847796575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1138572169",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "klinik gigi",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.936041,
+          -6.9195847
+        ]
+      },
+      "id": "way/1138572169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2918149817",
+        "amenity": "pharmacy",
+        "brand": "Kimia Farma",
+        "brand:wikidata": "Q11264892",
+        "brand:wikipedia": "en:Kimia Farma",
+        "healthcare": "pharmacy",
+        "name": "Kimia Farma",
+        "operator": "Kimia Farma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9277414,
+          -6.9193074
+        ]
+      },
+      "id": "node/2918149817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6377823299",
+        "amenity": "clinic",
+        "name:en": "Puskesmas Sukaraja"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9711755,
+          -6.91724
+        ]
+      },
+      "id": "node/6377823299"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6377823302",
+        "amenity": "doctors",
+        "name:en": "dr Abdul Gani",
+        "opening_hours": "Mo-Fr 16:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9677701,
+          -6.9171944
+        ]
+      },
+      "id": "node/6377823302"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6377823303",
+        "amenity": "pharmacy",
+        "name:en": "Waras Medika",
+        "phone": "+62266211971"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9670939,
+          -6.9168709
+        ]
+      },
+      "id": "node/6377823303"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6377823405",
+        "amenity": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9670956,
+          -6.9167583
+        ]
+      },
+      "id": "node/6377823405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7428203789",
+        "addr:full": "jalan rumah sakit no.8 - sukabumi",
+        "amenity": "pharmacy",
+        "name": "apotek indo medika"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9345504,
+          -6.9145101
+        ]
+      },
+      "id": "node/7428203789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7428274252",
+        "amenity": "pharmacy",
+        "name": "Raja Alkes Medika"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9332093,
+          -6.9172393
+        ]
+      },
+      "id": "node/7428274252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7451625701",
+        "addr:full": "Jalan Rumah Sakit Belakang No. 2 Cikole - Sukabumi",
+        "amenity": "pharmacy",
+        "name": "Apotek Pananjung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9333756,
+          -6.9172553
+        ]
+      },
+      "id": "node/7451625701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7871256690",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name:en": "Permata",
+        "phone": "+622666245414"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9405017,
+          -6.9224991
+        ]
+      },
+      "id": "node/7871256690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7871277089",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name:en": "Kimia Farma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9423435,
+          -6.9225521
+        ]
+      },
+      "id": "node/7871277089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7871277386",
+        "amenity": "doctors",
+        "healthcare": "doctor",
+        "name:en": "dr Santoso H",
+        "opening_hours": "Mo-Fr 16:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.936794,
+          -6.9230738
+        ]
+      },
+      "id": "node/7871277386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7871277391",
+        "amenity": "doctors",
+        "healthcare": "doctor",
+        "name:en": "dr Lilih Lesmana",
+        "opening_hours": "Mo-Fr 16:00-19:00",
+        "phone": "+62266222266"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.940057,
+          -6.9229212
+        ]
+      },
+      "id": "node/7871277391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7871336386",
+        "amenity": "pharmacy",
+        "name:en": "Kimia Farma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9531407,
+          -6.9197014
+        ]
+      },
+      "id": "node/7871336386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7871336685",
+        "amenity": "clinic",
+        "name:en": "Puskesmas Sukabumi",
+        "phone": "+622666253204"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9445412,
+          -6.9216914
+        ]
+      },
+      "id": "node/7871336685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7871336994",
+        "amenity": "doctors",
+        "name:en": "dr Zainal Arifin",
+        "opening_hours": "Mo-Sa 07:00-08:00, 09:00-09:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9544042,
+          -6.9194272
+        ]
+      },
+      "id": "node/7871336994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7871337788",
+        "amenity": "clinic",
+        "name:en": "3R"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.954347,
+          -6.919607
+        ]
+      },
+      "id": "node/7871337788"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7871337789",
+        "amenity": "clinic",
+        "name:en": "Kimia Farma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9531211,
+          -6.9196182
+        ]
+      },
+      "id": "node/7871337789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7880505189",
+        "amenity": "pharmacy",
+        "name:en": "Sumber Waras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9279073,
+          -6.922327
+        ]
+      },
+      "id": "node/7880505189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7880505294",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name:en": "General Checkup & Fisioterapi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9235059,
+          -6.9221417
+        ]
+      },
+      "id": "node/7880505294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7880505490",
+        "amenity": "clinic",
+        "healthcare": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9223733,
+          -6.9205206
+        ]
+      },
+      "id": "node/7880505490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7880507188",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name:en": "Lab Prodia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9171393,
+          -6.9195548
+        ]
+      },
+      "id": "node/7880507188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7880507398",
+        "amenity": "doctors",
+        "name:en": "dr Supriyanto",
+        "opening_hours": "Mo-Sa 08:00-12:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9145165,
+          -6.9187681
+        ]
+      },
+      "id": "node/7880507398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7880510590",
+        "amenity": "clinic",
+        "name:en": "Puskesmas Cipelang",
+        "phone": "+62266225041"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9146375,
+          -6.9185496
+        ]
+      },
+      "id": "node/7880510590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7880510889",
+        "amenity": "hospital",
+        "name:en": "IGD",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9169318,
+          -6.9190866
+        ]
+      },
+      "id": "node/7880510889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7880510985",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name:en": "Kimia Farma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9173876,
+          -6.9195887
+        ]
+      },
+      "id": "node/7880510985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7902305391",
+        "amenity": "doctors",
+        "healthcare": "doctor",
+        "name:en": "dr Shinta WS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9360353,
+          -6.9193428
+        ]
+      },
+      "id": "node/7902305391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7902305392",
+        "amenity": "doctors",
+        "healthcare": "doctor",
+        "name:en": "dr Harsono Hartanto",
+        "opening_hours": "Mo-Fr 08:00-09:00, 10:00-11:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9361046,
+          -6.9190908
+        ]
+      },
+      "id": "node/7902305392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7902305400",
+        "amenity": "doctors",
+        "healthcare": "doctor",
+        "name:en": "dr Katharina, dr Andri, dr Ni Made Ayu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9361157,
+          -6.9152415
+        ]
+      },
+      "id": "node/7902305400"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7902305416",
+        "amenity": "doctors",
+        "name:en": "dr Hidayat Gunawan SpA",
+        "phone": "+62266224051"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9339612,
+          -6.9126649
+        ]
+      },
+      "id": "node/7902305416"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7902306428",
+        "amenity": "clinic",
+        "name:en": "Klinik Pradhita"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9347688,
+          -6.9143058
+        ]
+      },
+      "id": "node/7902306428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7902306490",
+        "amenity": "doctors",
+        "healthcare": "doctor",
+        "name:en": "dr Gunawan Wiriadisastra, internis",
+        "opening_hours": "Mo-Fr 08:00-10:00, 11:00-13:00; Sa 08:00-13:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9360427,
+          -6.9179421
+        ]
+      },
+      "id": "node/7902306490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7902306587",
+        "amenity": "pharmacy",
+        "name:en": "Siliwangi",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+62266221016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9359548,
+          -6.9194834
+        ]
+      },
+      "id": "node/7902306587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7902306690",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name:en": "Sahabat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.936049,
+          -6.91525
+        ]
+      },
+      "id": "node/7902306690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7902306706",
+        "amenity": "pharmacy",
+        "name:en": "R Syamsudin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9351862,
+          -6.9151497
+        ]
+      },
+      "id": "node/7902306706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7902307690",
+        "amenity": "doctors",
+        "name:en": "dr Danny H",
+        "opening_hours": "Mo-Sa 08:30-09:00, 10:00-11:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9350382,
+          -6.9179599
+        ]
+      },
+      "id": "node/7902307690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7902307785",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name:en": "Depo Farmasi Cattleya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9346564,
+          -6.9169668
+        ]
+      },
+      "id": "node/7902307785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7902307786",
+        "amenity": "pharmacy",
+        "name:en": "2Bintang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9347237,
+          -6.9178336
+        ]
+      },
+      "id": "node/7902307786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7908064986",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name:en": "Kayla Farma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.929526,
+          -6.9216208
+        ]
+      },
+      "id": "node/7908064986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7908082386",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name:en": "Baldes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9283385,
+          -6.9210567
+        ]
+      },
+      "id": "node/7908082386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7908084986",
+        "amenity": "doctors",
+        "healthcare": "doctor",
+        "name:en": "dr Djuwarto Slamet",
+        "opening_hours": "Mo-Sa 17:00-20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9283871,
+          -6.9210397
+        ]
+      },
+      "id": "node/7908084986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7908938885",
+        "amenity": "doctors",
+        "healthcare": "doctor",
+        "name:en": "dr Siswanto",
+        "opening_hours": "Mo, We, Fr 06:00-08:00; Tu, Th 07:30-08:30; Mo-Fr 14:00-16:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9297727,
+          -6.9201423
+        ]
+      },
+      "id": "node/7908938885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7908939385",
+        "addr:housenumber": "2",
+        "addr:street": "Jalan Veteran II",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name:en": "Klinik Pratama Kimia Farma 8",
+        "phone": "+62266225241"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.927948,
+          -6.9191209
+        ]
+      },
+      "id": "node/7908939385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7909020605",
+        "addr:housenumber": "59A",
+        "addr:street": "Jalan Aminta Azmali",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name:en": "Bhayangkara",
+        "phone": "+62266229207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9225985,
+          -6.9120589
+        ]
+      },
+      "id": "node/7909020605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7909020606",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name:en": "Emergency IGD",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9223035,
+          -6.9124144
+        ]
+      },
+      "id": "node/7909020606"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7909020686",
+        "amenity": "clinic",
+        "name:en": "Suryakencana",
+        "phone": "+62266221447"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9311567,
+          -6.916776
+        ]
+      },
+      "id": "node/7909020686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7909020791",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name:en": "Posyandu Kemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9220417,
+          -6.9123126
+        ]
+      },
+      "id": "node/7909020791"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7909020795",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name:en": "Posyandu Melati 5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9249624,
+          -6.9223456
+        ]
+      },
+      "id": "node/7909020795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7909021187",
+        "amenity": "clinic",
+        "name:en": "Natasha Skin Clinic",
+        "phone": "+622666250788"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9317625,
+          -6.9164158
+        ]
+      },
+      "id": "node/7909021187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7909021189",
+        "addr:housenumber": "43",
+        "addr:street": "Jalan Surya Kencana",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name:en": "Laboratorium Kesehatan Daerah",
+        "phone": "+62266230622"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9322448,
+          -6.9153713
+        ]
+      },
+      "id": "node/7909021189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7909021385",
+        "amenity": "pharmacy",
+        "name:en": "Suryakencana",
+        "phone": "+62266221447"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.931125,
+          -6.9167292
+        ]
+      },
+      "id": "node/7909021385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7909021688",
+        "amenity": "doctors",
+        "healthcare": "doctor",
+        "name:en": "dr Ratu Agustine",
+        "opening_hours": "Mo-Fr 08:00-09:00, 10:00-11:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9291446,
+          -6.9122791
+        ]
+      },
+      "id": "node/7909021688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7909021787",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name:en": "Klinik SETUKPA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9222334,
+          -6.9125688
+        ]
+      },
+      "id": "node/7909021787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7909021985",
+        "amenity": "clinic",
+        "name:en": "Erha Skin Clinic",
+        "website": "https://www.erha.co.id/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9316911,
+          -6.9164585
+        ]
+      },
+      "id": "node/7909021985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9619860709",
+        "addr:housenumber": "343",
+        "addr:street": "Jalan Pelabuhan II",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Apotek Rafi Farma",
+        "opening_hours": "Mo-Sa 08:00-20:00",
+        "phone": "+6281287279123"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9221395,
+          -6.9423735
+        ]
+      },
+      "id": "node/9619860709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9800576099",
+        "amenity": "clinic",
+        "contact:facebook": "https://www.facebook.com/Arora-Laser-Aesthetic-Clinic-603613109988024/",
+        "contact:instagram": "https://www.instagram.com/arorabeautyclinic/",
+        "name": "Arora Laser & Aesthetic Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.936157,
+          -6.916531
+        ]
+      },
+      "id": "node/9800576099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9800747731",
+        "amenity": "hospital",
+        "name": "Primaya Hospital Sukabumi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9577461,
+          -6.9186652
+        ]
+      },
+      "id": "node/9800747731"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9813575179",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Irna Pratama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.916803,
+          -6.9170582
+        ]
+      },
+      "id": "node/9813575179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12079657669",
+        "amenity": "pharmacy",
+        "name": "Kimia Farma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.0185399,
+          -6.8795468
+        ]
+      },
+      "id": "node/12079657669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13422843006",
+        "amenity": "pharmacy",
+        "name": "Apotek Bintang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9325901,
+          -6.9296644
+        ]
+      },
+      "id": "node/13422843006"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13422851402",
+        "amenity": "pharmacy",
+        "name": "Apotek Kurnia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9321885,
+          -6.9220908
+        ]
+      },
+      "id": "node/13422851402"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13422851801",
+        "amenity": "doctors",
+        "name": "dr. Rizki Febrina & dr. Fauzia Rachman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9333094,
+          -6.9267529
+        ]
+      },
+      "id": "node/13422851801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13423424001",
+        "amenity": "pharmacy",
+        "name": "Apotek Dunia Sehat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9336628,
+          -6.9258883
+        ]
+      },
+      "id": "node/13423424001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13431568002",
+        "amenity": "doctors",
+        "name": "Metiawati",
+        "opening_hours": "Su-Fr 16:00-20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9322744,
+          -6.9185041
+        ]
+      },
+      "id": "node/13431568002"
+    }
+  ]
+}

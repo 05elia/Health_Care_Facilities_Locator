@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html lang="id">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>GIS Kesehatan - Contact & Team</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+    />
+
+    <style>
+      /* --- COPY PASTE DARI CSS YANG LU KIRIM --- */
+      * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+        font-family: "Segoe UI", sans-serif;
+      }
+
+      body {
+        background: #f4f6fb;
+        color: #222;
+      }
+
+      /* NAVBAR */
+      .navbar {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 18px 40px;
+        background: linear-gradient(90deg, #0066ff, #00c2ff);
+        color: white;
+        box-shadow: 0 5px 15px rgba(0, 0, 0, 0.15);
+      }
+
+      .logo {
+        font-size: 22px;
+        font-weight: bold;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+      }
+
+      .nav-links a {
+        margin-left: 25px;
+        text-decoration: none;
+        color: white;
+        font-weight: 500;
+        transition: 0.3s;
+      }
+
+      .nav-links a:hover {
+        opacity: 0.7;
+      }
+
+      /* PAGE CONFIG */
+      .page {
+        padding: 60px;
+      }
+
+      h1 {
+        font-size: 32px;
+        margin-bottom: 20px;
+        text-align: center;
+        color: #0066ff;
+      }
+
+      /* SECTION CONFIG */
+      .section {
+        max-width: 1100px;
+        margin: auto;
+        padding-top: 40px;
+      }
+
+      /* --- ABOUT TEAM SECTION --- */
+      .team {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+        gap: 30px;
+        margin-top: 40px;
+        margin-bottom: 60px; /* Jarak ke Contact */
+      }
+
+      .member {
+        background: white;
+        border-radius: 20px;
+        padding: 30px;
+        text-align: center;
+        box-shadow: 0 15px 30px rgba(0, 0, 0, 0.08);
+        transition: 0.3s;
+      }
+
+      .member:hover {
+        transform: translateY(-8px);
+      }
+
+      .avatar {
+        width: 90px;
+        height: 90px;
+        background: linear-gradient(135deg, #0066ff, #00c2ff);
+        border-radius: 50%;
+        margin: auto;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: white;
+        font-size: 32px;
+        font-weight: bold;
+        margin-bottom: 15px;
+        box-shadow: 0 5px 15px rgba(0, 102, 255, 0.3);
+      }
+
+      .member h3 {
+        margin-bottom: 5px;
+        color: #0066ff;
+      }
+
+      .member p {
+        font-size: 14px;
+        color: #666;
+      }
+
+      /* --- CONTACT SECTION --- */
+      .contact-box {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 40px;
+        margin-top: 40px;
+      }
+
+      .contact-info {
+        background: linear-gradient(135deg, #0066ff, #00c2ff);
+        color: white;
+        padding: 40px;
+        border-radius: 25px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+      }
+
+      .contact-info h2 {
+        margin-bottom: 15px;
+        font-size: 24px;
+      }
+
+      .contact-info p {
+        margin-bottom: 15px;
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        line-height: 1.5;
+      }
+
+      .contact-form {
+        background: white;
+        padding: 40px;
+        border-radius: 25px;
+        box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1);
+      }
+
+      .contact-form input,
+      .contact-form textarea {
+        width: 100%;
+        padding: 14px;
+        margin-bottom: 15px;
+        border-radius: 10px;
+        border: 1px solid #ddd;
+        background: #f9f9f9;
+      }
+
+      .contact-form input:focus,
+      .contact-form textarea:focus {
+        outline: none;
+        border-color: #0066ff;
+        background: white;
+      }
+
+      .contact-form button {
+        background: #0066ff;
+        border: none;
+        padding: 14px 30px;
+        border-radius: 30px;
+        color: white;
+        font-size: 16px;
+        cursor: pointer;
+        width: 100%;
+        font-weight: bold;
+        transition: 0.3s;
+        box-shadow: 0 5px 15px rgba(0, 102, 255, 0.2);
+      }
+
+      .contact-form button:hover {
+        transform: translateY(-2px);
+        opacity: 0.9;
+      }
+
+      /* RESPONSIVE */
+      @media (max-width: 768px) {
+        .contact-box {
+          grid-template-columns: 1fr;
+        }
+        .page {
+          padding: 30px 20px;
+        }
+        .navbar {
+          padding: 15px 20px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <nav class="navbar">
+      <div class="logo">GIS KESEHATAN</div>
+      <div class="nav-links">
+        <a href="index.html">Dashboard</a>
+        <a href="map.html">Peta Analisis</a>
+        <a href="about.html">About & Contact</a>
+      </div>
+    </nav>
+
+    <div class="page">
+      <div class="section">
+        <h1>Tim Pengembang</h1>
+        <p style="text-align: center; color: #666">
+          Project GIS TI23G - Universitas Nusa Putra
+        </p>
+
+        <div class="team">
+          <div class="member">
+            <div class="avatar"><i class="fas fa-user"></i></div>
+            <h3>M. Robi Firmansyah</h3>
+            <p>NIM: 20230040092</p>
+            <p style="margin-top: 5px; font-size: 12px; color: #999">
+              GIS Analyst
+            </p>
+          </div>
+
+          <div class="member">
+            <div class="avatar"><i class="fas fa-code"></i></div>
+            <h3>Moch Hamdi Addzikri</h3>
+            <p>NIM: 20230040245</p>
+            <p style="margin-top: 5px; font-size: 12px; color: #999">
+              Web Developer
+            </p>
+          </div>
+
+          <div class="member">
+            <div class="avatar"><i class="fas fa-map-marked-alt"></i></div>
+            <h3>Elia Jose Alvaro</h3>
+            <p>NIM: 20230040163</p>
+            <p style="margin-top: 5px; font-size: 12px; color: #999">
+              Data Surveyor
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div class="section">
+        <h1>Hubungi Kami</h1>
+        <div class="contact-box">
+          <div class="contact-info">
+            <h2>Get in Touch</h2>
+            <p><i class="fas fa-university"></i> Universitas Nusa Putra</p>
+            <p>
+              <i class="fas fa-envelope"></i> kelompok_gis_ti23g@nusaputra.ac.id
+            </p>
+            <p><i class="fas fa-map-marker-alt"></i> Sukabumi, Jawa Barat</p>
+            <br />
+            <p style="font-size: 13px; opacity: 0.8; line-height: 1.6">
+              Kami terbuka untuk saran pengembangan sistem informasi geografis
+              ini. Silakan kirim pesan melalui form di samping.
+            </p>
+          </div>
+
+          <div class="contact-form">
+            <form
+              onsubmit="alert('Terima kasih! Pesan Anda telah terkirim.'); return false;"
+            >
+              <input type="text" placeholder="Nama Lengkap" required />
+              <input type="email" placeholder="Alamat Email" required />
+              <textarea
+                rows="5"
+                placeholder="Tulis Pesan Anda..."
+                required
+              ></textarea>
+              <button type="submit">Kirim Pesan</button>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
